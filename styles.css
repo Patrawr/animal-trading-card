@@ -1,0 +1,35 @@
+/* add your CSS here */
+
+.animal-image {
+    padding: 5px 0 10px;
+}
+
+.fact-type {
+    font-weight: bold;
+}
+
+.interesting-fact {
+    font-style: italic;
+}
+
+.fact-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.card {
+    box-sizing: content-box;
+    height: auto;
+    width: 300px;
+    border: thin solid rgb(170, 170, 170);
+    box-shadow: 5px 5px 1px #E0E0E0;
+    padding: 0 15px 15px;
+}
+
+.information {
+    box-sizing: border-box;
+    height: auto;
+    width: 300px;
+    border: thin solid rgb(170, 170, 170);
+    padding: 0 10px; 
+}
